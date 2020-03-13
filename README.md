@@ -1,4 +1,2 @@
 # PagerGallery
-利用ViewPager2 实现滑动图片浏览器
-
-添加图片保存功能
+使用Paging重新实现加载更多数据
